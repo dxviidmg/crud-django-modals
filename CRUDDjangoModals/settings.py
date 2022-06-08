@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'bootstrap_modal_forms',
+    'widget_tweaks',
 
     'books'
 ]
